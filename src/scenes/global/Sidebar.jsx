@@ -117,7 +117,7 @@ const CustomSidebar = () => {
                   
                   width="100px"
                   height="100px"
-                  src={`./../../assets/Virat-Kohli.webp`}
+                  src={`https://media.firstsportz.com/wp-content/uploads/2025/06/05090017/Virat-Kohli-next-ODI.jpg`}
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
               </Box>
